@@ -1,0 +1,90 @@
+
+.jumbotron{
+  max-width: 100%;
+    height: auto;
+    background-image: url(images/panoramic.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     padding-top: 50px;
+ }
+
+ .jumbotron .maintitle{
+   padding-top: 150px;
+   color: white;
+ }
+
+.categories a {
+  font-size: 30px;
+}
+
+.categories a#sports {
+  color: #FFA500;
+}
+
+.categories a#arts{
+  color: #FFA500;
+}
+.categories a#style {
+  color: #FFA500;
+}
+.categories a#music{
+  color:#FFA500;
+}
+.categories a#tech{
+  color:	#FFA500;
+}
+#arts{
+  background-color: white;
+  border-color:#FFA500;
+  border-style:inset;
+}
+#sports{
+  background-color: white;
+  border-color:#FFA500;
+  border-style:inset;
+}
+#tech{
+  background-color: white;
+  border-color:#FFA500;
+  border-style:inset;
+}
+#music{
+  background-color: white;
+  border-color:#FFA500;
+  border-style:inset;
+}
+#style{
+  background-color: white;
+  border-color: #FFA500;
+  border-style:inset;
+}
+.reg_button{
+  text-align: right;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+h1{
+  font-family: "Times New Roman", Times, serif;
+}
+#mission{
+  font-family:"Times New Roman", Times, serif;
+font-style: oblique;
+}
+#option{
+  font-family:"Times New Roman", Times, serif;
+font-style: oblique;
+text-align: right;
+margin-right: 200px;
+}
+#info{
+  font-family:"Times New Roman", Times, serif;
+font-style: oblique;
+}
+#lo{
+  text-align: right;
+
+}
+#search{
+  align-items: flex-end;
+}
