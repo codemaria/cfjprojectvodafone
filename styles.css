@@ -1,4 +1,17 @@
-
+body{
+  background-color: #001c26;
+}
+#who{
+  color: white;
+  font-family:"Times New Roman", Times, serif;
+font-style: oblique;
+}
+.lead{
+  color: white;
+}
+h3{
+  color:white;
+}
 .jumbotron{
   max-width: 100%;
     height: auto;
@@ -70,13 +83,9 @@ h1{
 #mission{
   font-family:"Times New Roman", Times, serif;
 font-style: oblique;
+color: white;
 }
-#option{
-  font-family:"Times New Roman", Times, serif;
-font-style: oblique;
-text-align: right;
-margin-right: 200px;
-}
+
 #info{
   font-family:"Times New Roman", Times, serif;
 font-style: oblique;
@@ -87,4 +96,14 @@ font-style: oblique;
 }
 #search{
   align-items: flex-end;
+}
+#bullets{
+  font-style:ob
+}
+#social-buttons a{
+  font-size: 40px;
+}
+label{
+  color:white;
+  font-size: 20px;
 }
